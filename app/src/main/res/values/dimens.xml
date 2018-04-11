@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tiny">1dp</dimen>
+    <dimen name="small">4dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="large">16dp</dimen>
+    <dimen name="xLarge">24dp</dimen>
+    <dimen name="huge">32dp</dimen>
+    <dimen name="type_button_height">40dp</dimen>
+    <dimen name="type_button_width">100dp</dimen>
+    <dimen name="square_button">48dp</dimen>
+    <dimen name="small_text">14sp</dimen>
+    <dimen name="medium_text">18sp</dimen>
+    <dimen name="large_text">56sp</dimen>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Court Counter Pro</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="team_a_score">0</string>
+    <string name="team_b_score">0</string>
+    <string name="points_A3">+3 Points</string>
+    <string name="points_A2">+2 Points</string>
+    <string name="points_A1">Free Throw</string>
+    <string name="points_B3">+3 Points</string>
+    <string name="points_B2">+2 Points</string>
+    <string name="points_B1">Free Throw</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+</resources>
